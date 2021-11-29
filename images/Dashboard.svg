@@ -1,0 +1,20 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Dashboard">
+<rect id="Container" x="7" y="16" width="114" height="96" fill="#F2F2F2" stroke="#4F4F4F" stroke-width="2"/>
+<g id="Pie_Chart">
+<circle id="Ellipse 14" cx="40.5" cy="53.5" r="25.5" fill="#EB5757"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M66 53.5C66 53.6352 65.9989 53.7701 65.9969 53.9048L40.0952 53.9048L40.0952 28.0031C40.2299 28.0011 40.3648 28 40.5 28C54.5833 28 66 39.4167 66 53.5Z" fill="#0F7CB9"/>
+</g>
+<g id="Vertical_Chart">
+<rect id="Rectangle 74" x="83" y="62" width="40" height="5" transform="rotate(90 83 62)" fill="#4F4F4F"/>
+<rect id="Rectangle 76" x="103" y="72" width="30" height="5" transform="rotate(90 103 72)" fill="#4F4F4F"/>
+<rect id="Rectangle 75" x="93" y="42" width="60" height="5" transform="rotate(90 93 42)" fill="#4F4F4F"/>
+<rect id="Rectangle 77" x="113" y="26" width="75" height="5" transform="rotate(90 113 26)" fill="#4F4F4F"/>
+</g>
+<g id="Horizontal_Chart">
+<rect id="Rectangle 71" width="51" height="2" transform="matrix(-1 0 0 1 66 86)" fill="#4F4F4F"/>
+<rect id="Rectangle 72" width="51" height="2" transform="matrix(-1 0 0 1 66 93)" fill="#4F4F4F"/>
+<rect id="Rectangle 73" width="51" height="2" transform="matrix(-1 0 0 1 66 100)" fill="#4F4F4F"/>
+</g>
+</g>
+</svg>

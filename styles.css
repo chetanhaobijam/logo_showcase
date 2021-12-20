@@ -37,6 +37,11 @@ body, html {
   height: auto;
 }
 
+.aside-items {
+  overflow-y: scroll;
+  max-height: 100vh;
+}
+
 .aside-items div {
   display: flex;
   padding: 0.4rem;
